@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Yan+de+Oliveira+Ferreira;Automation+%26+AI+Specialist;n8n+%7C+APIs+%7C+Integra%C3%A7%C3%B5es" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Yan+de+Oliveira+Ferreira;Automation+Specialist;n8n+%7C+APIs+%7C+Integra%C3%A7%C3%B5es" alt="Typing SVG" />
 
 <img width="25%" src="https://ivanilsodasilva.github.io/read-me/assets/sticker.gif"/>
 
